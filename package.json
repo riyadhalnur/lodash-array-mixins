@@ -1,0 +1,33 @@
+{
+  "name": "lodash-array-mixins",
+  "version": "0.0.1",
+  "description": "A collection of lodash mixins to do fancy stuff with Arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/tests.js"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "repository": "https://github.com/riyadhalnur/lodash-array-mixins",
+  "homepage": "https://github.com/riyadhalnur/lodash-array-mixins",
+  "keywords": [
+    "lodash",
+    "mixins",
+    "array",
+    "node",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/riyadhalnur/lodash-array-mixins/issues"
+  },
+  "author": "Riyadh Al Nur <riyadhalnur@verticalaxisbd.com> (http://blog.verticalaxisbd.com)",
+  "license": "GPLv3",
+  "dependencies": {
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.x",
+    "should": "^4.3.x"
+  }
+}
