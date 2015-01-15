@@ -1,6 +1,6 @@
 {
   "name": "lodash-array-mixins",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of lodash mixins to do fancy stuff with Arrays",
   "main": "index.js",
   "scripts": {
