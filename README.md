@@ -1,4 +1,6 @@
 # lodash-array-mixins
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/riyadhalnur/lodash-array-mixins.svg)](https://greenkeeper.io/)
 A collection of lodash mixins to do fancy stuff with Arrays  
 
 ## Methods  
